@@ -4,6 +4,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'hdbahdba.github.io',
+    site: 'https://hdbahdba.github.io',
     integrations: [sitemap()],
 });
